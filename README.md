@@ -12,6 +12,6 @@ ECMAScript (ECMA-262, TC-39) specification.
 
 ## Documentation
 
-- [TSDoc](https://github.com/microsoft/tsdoc)
-- [TypeDoc](https://github.com/TypeStrong/typedoc)
-- [DocFX](https://dotnet.github.io/docfx/tutorial/universalreference/gen_doc_for_ts.html)
+- [TSDoc: A doc comment standard for TypeScript](https://github.com/microsoft/tsdoc)
+- [TypeDoc: Documentation generator for TypeScript projects](https://github.com/TypeStrong/typedoc)
+- [DocFX: Generate API Documentation for TypeScript](https://dotnet.github.io/docfx/tutorial/universalreference/gen_doc_for_ts.html)
